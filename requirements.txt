@@ -1,0 +1,9 @@
+evadb==0.3.7
+gpt4all
+Unidecode
+numpy
+pandas
+qdrant-client
+sentence-transformers
+faiss-cpu
+rich
